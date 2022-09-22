@@ -4,7 +4,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Bookmarks</summary>
+  <summary>Repositories</summary>
   
 [Arjun](/Arjun/#README.md)
 
