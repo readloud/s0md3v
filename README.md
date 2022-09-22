@@ -85,11 +85,9 @@
 [zetanize](/zetanize/#README.md)
 </details>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/s0md3v?style=social)](https://twitter.com/s0md3v)
-
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Decodify</summary>
+  <summary>Example</summary>
   
 # Decodify
 It can detect and decode encoded strings, recursively.\
@@ -155,3 +153,5 @@ If you encounter a valid encoded string which wasn't correctly processed by Deco
 You can also contribute by adding support for more encodings or by fixing my poorly writting code.
   
 <details>
+  
+[![Twitter Follow](https://img.shields.io/twitter/follow/s0md3v?style=social)](https://twitter.com/s0md3v)
