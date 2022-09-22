@@ -153,5 +153,6 @@ If you encounter a valid encoded string which wasn't correctly processed by Deco
 You can also contribute by adding support for more encodings or by fixing my poorly writting code.
   
 <details>
+
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/s0md3v?style=social)](https://twitter.com/s0md3v)
