@@ -4,7 +4,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Repositories</summary>
+  <summary>Index</summary>
 
 [Arjun](/Arjun/#README.md)
 
@@ -87,7 +87,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Example</summary>
+  <summary>Decodify</summary>
   
 # Decodify
 It can detect and decode encoded strings, recursively.\
